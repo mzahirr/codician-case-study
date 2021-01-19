@@ -1,4 +1,6 @@
-<p align="center"><img src="https://prnt.sc/x7pttt" width="400"></p>
+# ![Laravel Example App](companies_main.PNG)
+
+# ![Laravel Example App](company_address.PNG)
 
 
 ## Installation
