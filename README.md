@@ -6,7 +6,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd codician-app
+    cd codician-case-study
 
 Install all the dependencies using composer
 
@@ -27,6 +27,10 @@ Run the database migrations (**Set the database connection in .env before migrat
 Start the local development server
 
     php artisan serve
+   
+Compile vue file
+
+    npm run dev
     
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
