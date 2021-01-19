@@ -1,3 +1,6 @@
+
+# ![Laravel Example App](https://prnt.sc/x7pttt)
+
 ## Installation
 
 Clone the repository
